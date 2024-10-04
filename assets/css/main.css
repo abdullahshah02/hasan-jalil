@@ -3219,3 +3219,35 @@ input, select, textarea {
 			}
 
 	}
+
+
+	#faq {
+		/* background-color: #360b30; */
+		/* color: #ffffff; */
+		padding: 2em;
+	}
+	
+	#faq h2 {
+		/* text-align: center; */
+		margin-bottom: 1em;
+	}
+	
+	#faq details {
+		margin-bottom: 1em;
+		border-bottom: 1px solid rgba(255,255,255,0.2);
+		padding-bottom: 1em;
+	}
+	
+	#faq summary {
+		/* font-weight: bold; */
+		cursor: pointer;
+	}
+	
+	#faq summary:hover {
+		color: #cccccc;
+	}
+	
+	#faq p {
+		margin-top: 0.5em;
+		padding-left: 1em;
+	}
